@@ -17,3 +17,7 @@ base workflow
 <img src="assets/base_wf.png" raw=true>
 
 https://github.com/chaojie/ComfyUI-MotionCtrl-SVD/blob/main/workflow.json
+
+A little exploration workflow: for videos with relatively static camera angles, applying the same MotionCtrl to each frame, then combining images from corresponding positions to create a new video. The nth frame image is taken from the generated nth frame and merged again.
+
+https://github.com/chaojie/ComfyUI-MotionCtrl-SVD/blob/main/workflow_video.json
