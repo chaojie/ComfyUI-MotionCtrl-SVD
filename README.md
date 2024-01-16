@@ -8,7 +8,7 @@
 
 2. Run pip install -r requirements.txt
 
-3. Download the weights of MotionCtrl  [motionctrl.pth](https://huggingface.co/TencentARC/MotionCtrl/blob/main/motionctrl.pth) and put it to `ComfyUI/models/checkpoints`
+3. Download the weights of MotionCtrl for SVD [motionctrl_svd.ckpt](https://huggingface.co/TencentARC/MotionCtrl/blob/main/motionctrl_svd.ckpt) and put it to `ComfyUI/models/checkpoints`
 
 ## Examples
 
