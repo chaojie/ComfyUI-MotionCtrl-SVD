@@ -20,7 +20,6 @@ opencv-python==4.8.0.74
 moviepy
 Pillow
 tqdm
-gradio==3.37.0
 webdataset
 Fire
 natsort
